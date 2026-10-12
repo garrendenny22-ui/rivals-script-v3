@@ -1,3 +1,4 @@
+
 # 🎮 Rivals Script — Ultimate Roblox Rivals Menu | NO KEY
 
 ![Downloads](https://img.shields.io/badge/Downloads-2.5M%2B-brightgreen)
